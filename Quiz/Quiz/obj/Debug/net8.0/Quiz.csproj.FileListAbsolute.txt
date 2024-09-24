@@ -1,0 +1,15 @@
+/Users/tahirburakavar/Documents/github/orhan-hoca--devler/Quiz/Quiz/bin/Debug/net8.0/Quiz
+/Users/tahirburakavar/Documents/github/orhan-hoca--devler/Quiz/Quiz/bin/Debug/net8.0/Quiz.deps.json
+/Users/tahirburakavar/Documents/github/orhan-hoca--devler/Quiz/Quiz/bin/Debug/net8.0/Quiz.runtimeconfig.json
+/Users/tahirburakavar/Documents/github/orhan-hoca--devler/Quiz/Quiz/bin/Debug/net8.0/Quiz.dll
+/Users/tahirburakavar/Documents/github/orhan-hoca--devler/Quiz/Quiz/bin/Debug/net8.0/Quiz.pdb
+/Users/tahirburakavar/Documents/github/orhan-hoca--devler/Quiz/Quiz/obj/Debug/net8.0/Quiz.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tahirburakavar/Documents/github/orhan-hoca--devler/Quiz/Quiz/obj/Debug/net8.0/Quiz.AssemblyInfoInputs.cache
+/Users/tahirburakavar/Documents/github/orhan-hoca--devler/Quiz/Quiz/obj/Debug/net8.0/Quiz.AssemblyInfo.cs
+/Users/tahirburakavar/Documents/github/orhan-hoca--devler/Quiz/Quiz/obj/Debug/net8.0/Quiz.csproj.CoreCompileInputs.cache
+/Users/tahirburakavar/Documents/github/orhan-hoca--devler/Quiz/Quiz/obj/Debug/net8.0/Quiz.sourcelink.json
+/Users/tahirburakavar/Documents/github/orhan-hoca--devler/Quiz/Quiz/obj/Debug/net8.0/Quiz.dll
+/Users/tahirburakavar/Documents/github/orhan-hoca--devler/Quiz/Quiz/obj/Debug/net8.0/refint/Quiz.dll
+/Users/tahirburakavar/Documents/github/orhan-hoca--devler/Quiz/Quiz/obj/Debug/net8.0/Quiz.pdb
+/Users/tahirburakavar/Documents/github/orhan-hoca--devler/Quiz/Quiz/obj/Debug/net8.0/Quiz.genruntimeconfig.cache
+/Users/tahirburakavar/Documents/github/orhan-hoca--devler/Quiz/Quiz/obj/Debug/net8.0/ref/Quiz.dll

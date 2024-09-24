@@ -1,0 +1,15 @@
+/Users/tahirburakavar/Documents/github/orhan-hoca--devler/TaşKağıtMakasOyunuv1/Oyunv1/obj/Debug/net8.0/Oyunv1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tahirburakavar/Documents/github/orhan-hoca--devler/TaşKağıtMakasOyunuv1/Oyunv1/obj/Debug/net8.0/Oyunv1.AssemblyInfoInputs.cache
+/Users/tahirburakavar/Documents/github/orhan-hoca--devler/TaşKağıtMakasOyunuv1/Oyunv1/obj/Debug/net8.0/Oyunv1.AssemblyInfo.cs
+/Users/tahirburakavar/Documents/github/orhan-hoca--devler/TaşKağıtMakasOyunuv1/Oyunv1/obj/Debug/net8.0/Oyunv1.csproj.CoreCompileInputs.cache
+/Users/tahirburakavar/Documents/github/orhan-hoca--devler/TaşKağıtMakasOyunuv1/Oyunv1/obj/Debug/net8.0/Oyunv1.sourcelink.json
+/Users/tahirburakavar/Documents/github/orhan-hoca--devler/TaşKağıtMakasOyunuv1/Oyunv1/obj/Debug/net8.0/Oyunv1.dll
+/Users/tahirburakavar/Documents/github/orhan-hoca--devler/TaşKağıtMakasOyunuv1/Oyunv1/obj/Debug/net8.0/refint/Oyunv1.dll
+/Users/tahirburakavar/Documents/github/orhan-hoca--devler/TaşKağıtMakasOyunuv1/Oyunv1/obj/Debug/net8.0/Oyunv1.pdb
+/Users/tahirburakavar/Documents/github/orhan-hoca--devler/TaşKağıtMakasOyunuv1/Oyunv1/bin/Debug/net8.0/Oyunv1
+/Users/tahirburakavar/Documents/github/orhan-hoca--devler/TaşKağıtMakasOyunuv1/Oyunv1/bin/Debug/net8.0/Oyunv1.deps.json
+/Users/tahirburakavar/Documents/github/orhan-hoca--devler/TaşKağıtMakasOyunuv1/Oyunv1/bin/Debug/net8.0/Oyunv1.runtimeconfig.json
+/Users/tahirburakavar/Documents/github/orhan-hoca--devler/TaşKağıtMakasOyunuv1/Oyunv1/bin/Debug/net8.0/Oyunv1.dll
+/Users/tahirburakavar/Documents/github/orhan-hoca--devler/TaşKağıtMakasOyunuv1/Oyunv1/bin/Debug/net8.0/Oyunv1.pdb
+/Users/tahirburakavar/Documents/github/orhan-hoca--devler/TaşKağıtMakasOyunuv1/Oyunv1/obj/Debug/net8.0/Oyunv1.genruntimeconfig.cache
+/Users/tahirburakavar/Documents/github/orhan-hoca--devler/TaşKağıtMakasOyunuv1/Oyunv1/obj/Debug/net8.0/ref/Oyunv1.dll

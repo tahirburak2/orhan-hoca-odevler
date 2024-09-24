@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/tahirburakavar/Documents/github/orhan-hoca--devler/TaşKağıtMakasOyunuv1/Oyunv1/Oyunv1.csproj",
-      "projectName": "Oyunv1",
-      "projectPath": "/Users/tahirburakavar/Documents/github/orhan-hoca--devler/TaşKağıtMakasOyunuv1/Oyunv1/Oyunv1.csproj",
+      "projectUniqueName": "/Users/tahirburakavar/Documents/github/orhan-hoca--devler/Quiz/Quiz/Quiz.csproj",
+      "projectName": "Quiz",
+      "projectPath": "/Users/tahirburakavar/Documents/github/orhan-hoca--devler/Quiz/Quiz/Quiz.csproj",
       "packagesPath": "/Users/tahirburakavar/.nuget/packages/",
-      "outputPath": "/Users/tahirburakavar/Documents/github/orhan-hoca--devler/TaşKağıtMakasOyunuv1/Oyunv1/obj/",
+      "outputPath": "/Users/tahirburakavar/Documents/github/orhan-hoca--devler/Quiz/Quiz/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/tahirburakavar/.nuget/NuGet/NuGet.Config"

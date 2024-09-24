@@ -1,12 +1,14 @@
-﻿namespace Oyunv1;
-// v1
-// - string dizisi içinde taş kağıt makas seçenekleri olsun.
-// - kullanıcıya hangi seçeneği seçtiğini sorun
-// - durumlara bağlı olarak kazandın veya kaybettin deyin
+﻿namespace Oyunv2;
+
 class Program
 {
     static void Main(string[] args)
     {
+        do
+        {
+            
+        
+        int sayaç=0;
         string[] secenekler = { "Taş", "Kağıt", "Makas" };
         Random rnd = new Random();
 
@@ -24,7 +26,8 @@ class Program
                  (seçilen.ToLower() == "kağıt" && rastgeleSeçilen.ToLower() == "taş") ||
                  (seçilen.ToLower() == "makas" && rastgeleSeçilen.ToLower() == "kağıt"))
         {
-            Console.WriteLine("Kazandınız!");
+            sayaç++;
+            Console.WriteLine($"Kazandınız ve şuanki puanınız: {sayaç}");
 
         }
         else if ((seçilen.ToLower() == "taş" && rastgeleSeçilen.ToLower() == "kağıt") ||
@@ -37,6 +40,8 @@ class Program
         {
             Console.WriteLine("Geçersiz seçim! Lütfen Taş, Kağıt veya Makas yazın.");
         }
+        System.Console.WriteLine("oyuna devam etmek için herhangi bir tuşa basınız çıkış yapmak için ise 'çıkış' yazınız.");
+       devam=Console.ReadLine();
+        } while (devam=="çıkış");
     }
 }
-
