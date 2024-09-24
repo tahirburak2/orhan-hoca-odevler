@@ -1,0 +1,14 @@
+/Users/tahirburakavar/Documents/github/orhan-hoca--devler/AlışverişHesaplamav2/alışverişv2/bin/Debug/net8.0/alışverişv2
+/Users/tahirburakavar/Documents/github/orhan-hoca--devler/AlışverişHesaplamav2/alışverişv2/bin/Debug/net8.0/alışverişv2.deps.json
+/Users/tahirburakavar/Documents/github/orhan-hoca--devler/AlışverişHesaplamav2/alışverişv2/bin/Debug/net8.0/alışverişv2.runtimeconfig.json
+/Users/tahirburakavar/Documents/github/orhan-hoca--devler/AlışverişHesaplamav2/alışverişv2/bin/Debug/net8.0/alışverişv2.dll
+/Users/tahirburakavar/Documents/github/orhan-hoca--devler/AlışverişHesaplamav2/alışverişv2/bin/Debug/net8.0/alışverişv2.pdb
+/Users/tahirburakavar/Documents/github/orhan-hoca--devler/AlışverişHesaplamav2/alışverişv2/obj/Debug/net8.0/alışverişv2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tahirburakavar/Documents/github/orhan-hoca--devler/AlışverişHesaplamav2/alışverişv2/obj/Debug/net8.0/alışverişv2.AssemblyInfoInputs.cache
+/Users/tahirburakavar/Documents/github/orhan-hoca--devler/AlışverişHesaplamav2/alışverişv2/obj/Debug/net8.0/alışverişv2.AssemblyInfo.cs
+/Users/tahirburakavar/Documents/github/orhan-hoca--devler/AlışverişHesaplamav2/alışverişv2/obj/Debug/net8.0/alışverişv2.csproj.CoreCompileInputs.cache
+/Users/tahirburakavar/Documents/github/orhan-hoca--devler/AlışverişHesaplamav2/alışverişv2/obj/Debug/net8.0/alışverişv2.dll
+/Users/tahirburakavar/Documents/github/orhan-hoca--devler/AlışverişHesaplamav2/alışverişv2/obj/Debug/net8.0/refint/alışverişv2.dll
+/Users/tahirburakavar/Documents/github/orhan-hoca--devler/AlışverişHesaplamav2/alışverişv2/obj/Debug/net8.0/alışverişv2.pdb
+/Users/tahirburakavar/Documents/github/orhan-hoca--devler/AlışverişHesaplamav2/alışverişv2/obj/Debug/net8.0/alışverişv2.genruntimeconfig.cache
+/Users/tahirburakavar/Documents/github/orhan-hoca--devler/AlışverişHesaplamav2/alışverişv2/obj/Debug/net8.0/ref/alışverişv2.dll

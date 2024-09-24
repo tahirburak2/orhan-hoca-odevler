@@ -1,0 +1,14 @@
+/Users/tahirburakavar/Documents/github/orhan-hoca--devler/Hesapmakinasıv3/Hesapmakinasıv3/bin/Debug/net8.0/Hesapmakinasıv3
+/Users/tahirburakavar/Documents/github/orhan-hoca--devler/Hesapmakinasıv3/Hesapmakinasıv3/bin/Debug/net8.0/Hesapmakinasıv3.deps.json
+/Users/tahirburakavar/Documents/github/orhan-hoca--devler/Hesapmakinasıv3/Hesapmakinasıv3/bin/Debug/net8.0/Hesapmakinasıv3.runtimeconfig.json
+/Users/tahirburakavar/Documents/github/orhan-hoca--devler/Hesapmakinasıv3/Hesapmakinasıv3/bin/Debug/net8.0/Hesapmakinasıv3.dll
+/Users/tahirburakavar/Documents/github/orhan-hoca--devler/Hesapmakinasıv3/Hesapmakinasıv3/bin/Debug/net8.0/Hesapmakinasıv3.pdb
+/Users/tahirburakavar/Documents/github/orhan-hoca--devler/Hesapmakinasıv3/Hesapmakinasıv3/obj/Debug/net8.0/Hesapmakinasıv3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tahirburakavar/Documents/github/orhan-hoca--devler/Hesapmakinasıv3/Hesapmakinasıv3/obj/Debug/net8.0/Hesapmakinasıv3.AssemblyInfoInputs.cache
+/Users/tahirburakavar/Documents/github/orhan-hoca--devler/Hesapmakinasıv3/Hesapmakinasıv3/obj/Debug/net8.0/Hesapmakinasıv3.AssemblyInfo.cs
+/Users/tahirburakavar/Documents/github/orhan-hoca--devler/Hesapmakinasıv3/Hesapmakinasıv3/obj/Debug/net8.0/Hesapmakinasıv3.csproj.CoreCompileInputs.cache
+/Users/tahirburakavar/Documents/github/orhan-hoca--devler/Hesapmakinasıv3/Hesapmakinasıv3/obj/Debug/net8.0/Hesapmakinasıv3.dll
+/Users/tahirburakavar/Documents/github/orhan-hoca--devler/Hesapmakinasıv3/Hesapmakinasıv3/obj/Debug/net8.0/refint/Hesapmakinasıv3.dll
+/Users/tahirburakavar/Documents/github/orhan-hoca--devler/Hesapmakinasıv3/Hesapmakinasıv3/obj/Debug/net8.0/Hesapmakinasıv3.pdb
+/Users/tahirburakavar/Documents/github/orhan-hoca--devler/Hesapmakinasıv3/Hesapmakinasıv3/obj/Debug/net8.0/Hesapmakinasıv3.genruntimeconfig.cache
+/Users/tahirburakavar/Documents/github/orhan-hoca--devler/Hesapmakinasıv3/Hesapmakinasıv3/obj/Debug/net8.0/ref/Hesapmakinasıv3.dll
