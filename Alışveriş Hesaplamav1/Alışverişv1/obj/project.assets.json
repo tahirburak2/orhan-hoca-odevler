@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/tahirburakavar/Documents/github/orhan-hoca--devler/Alışveriş Hesaplamav1/Alışverişv1/Alışverişv1.csproj",
+      "projectUniqueName": "/Users/tahirburakavar/Documents/github/orhan-hoca--devler/Alışveriş Hesaplamav1/Alışverişv1/Alışverişv1.csproj",
       "projectName": "Alışverişv1",
-      "projectPath": "/Users/tahirburakavar/Documents/github/orhan-hoca--devler/Alışveriş Hesaplamav1/Alışverişv1/Alışverişv1.csproj",
+      "projectPath": "/Users/tahirburakavar/Documents/github/orhan-hoca--devler/Alışveriş Hesaplamav1/Alışverişv1/Alışverişv1.csproj",
       "packagesPath": "/Users/tahirburakavar/.nuget/packages/",
-      "outputPath": "/Users/tahirburakavar/Documents/github/orhan-hoca--devler/Alışveriş Hesaplamav1/Alışverişv1/obj/",
+      "outputPath": "/Users/tahirburakavar/Documents/github/orhan-hoca--devler/Alışveriş Hesaplamav1/Alışverişv1/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/tahirburakavar/.nuget/NuGet/NuGet.Config"
